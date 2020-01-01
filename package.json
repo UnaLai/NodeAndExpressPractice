@@ -17,8 +17,11 @@
     "url": "https://github.com/UnaLai/NodeAndExpressPractice/issues"
   },
   "homepage": "https://github.com/UnaLai/NodeAndExpressPractice#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.2"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
   }
 }
